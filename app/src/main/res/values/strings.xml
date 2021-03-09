@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarsDB</string>
+    <string name="name">Name</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model_year">Model Year</string>
+    <string name="type">Type</string>
+    <string name="history">History</string>
+    <string name="author_name">Rizky Putra Pradhana Budiman</string>
+    <string name="author_email">1841720188@student.polinema.ac.id</string>
+</resources>
